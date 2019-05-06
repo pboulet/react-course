@@ -1,0 +1,29 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "Hands-on project as part of React web development course on Coursera.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pboulet/react-course.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "ecmascript",
+    "npm",
+    "node",
+    "git",
+    "native",
+    "react-native"
+  ],
+  "author": "Patrice Boulet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pboulet/react-course/issues"
+  },
+  "homepage": "https://github.com/pboulet/react-course#readme"
+}
